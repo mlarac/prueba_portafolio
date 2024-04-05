@@ -39,6 +39,9 @@ header a:hover{
 
 }
 .parrafo_descripcion{
+  
+  width: 100%;
+  justify-items: center;
   font-size: 22px;
   font-style: italic;
   color: black;
