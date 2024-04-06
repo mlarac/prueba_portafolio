@@ -6,7 +6,7 @@ body {
 header{
   padding-top: 30px;
   padding-bottom: 10px;
-  background-color: #009764;
+  background-color:#179963;  /* #343a40;/*#009764;*/
   background-repeat:no-repeat;
   background-position: center;
 }
@@ -31,9 +31,14 @@ header a:hover{
   }
 
 .tarjetita1{
-  justify-content: center;
-  text-align: left;
-  size: 10px;
+  background-color: #cfeece;
+  border-color: 2px;
+  justify-content: left;
+  text-align: justify;
+  margin-left: 25%;
+  margin-right:25%;
+  font-size: 18pt;
+  box-sizing: border-box;
   color:black;
   
 
