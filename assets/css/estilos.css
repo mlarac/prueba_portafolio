@@ -5,7 +5,7 @@ body {
 /* Hero Section */
 header{
   padding-top: 30px;
-  padding-bottom: 10px;
+  padding-bottom: 30px;
   background-color:#179963;  /* #343a40;/*#009764;*/
   background-repeat:no-repeat;
   background-position: center;
@@ -78,7 +78,7 @@ header a:hover{
   }
 
   .navbar-brand{
-    width: 100px;
+     width: 100px;
   }
 
 }
